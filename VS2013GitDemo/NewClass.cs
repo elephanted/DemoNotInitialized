@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace VS2013GitDemo
 {
-    class Program
+    class NewClass
     {
-        static void Main(string[] args)
-        {
-            //Changes
-
-        }
     }
 }
