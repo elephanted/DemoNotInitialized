@@ -8,5 +8,6 @@ namespace VS2013GitDemo
 {
     class NewClass
     {
+        //Additional 1.1 Changes
     }
 }
